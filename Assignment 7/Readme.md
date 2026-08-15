@@ -130,6 +130,4 @@ Finance-KPI-Dashboard/
 ---
 
 ## Author
-
-**[Your Name]**
 Attem Deepak Mudiraj (Project Assignment 7)
