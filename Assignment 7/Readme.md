@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard built to track budget vs. actual spending, budget utilization, and variance across departments, regions, categories, and payment methods for a manufacturing company.
 
-![Dashboard Preview](screenshots/page1_overview.png)
-
 ---
 
 ## Problem Statement
