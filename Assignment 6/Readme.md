@@ -126,6 +126,5 @@ HR-Analytics-Dashboard/
 ---
 
 ## Author
-Attem Deepak Mudiraj ( Power Bi Assignment 6)
-**[Your Name]**
-HR Data Analyst (Project Assignment)
+**Attem Deepak Mudiraj**,  ( "HR Analytics" Power Bi Assignment 6)
+
